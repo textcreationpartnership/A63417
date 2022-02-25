@@ -1,0 +1,131 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A True and particular relation of the victory obtained by the Christian armies against the Turks at Barkan, the ninth of October, 1683</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63417</idno>
+            <idno type="STC">Wing T2517</idno>
+            <idno type="STC">ESTC R33854</idno>
+            <idno type="EEBO-CITATION">13584889</idno>
+            <idno type="OCLC">ocm 13584889</idno>
+            <idno type="VID">100512</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63417)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100512)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1053:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A True and particular relation of the victory obtained by the Christian armies against the Turks at Barkan, the ninth of October, 1683</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Samuel Lowndes ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Holy League against the Turks, 1684.</term>
+               <term>Turkey --  History --  1683-1829.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:100512:1" rendition="simple:additions"/>
+            <head>A True and Particular RELATION OF THE VICTORY Obtained by the Chriſtian Armies againſt the Turks, At <hi>Barkan,</hi> the Ninth of <hi>October,</hi> 1683.</head>
+            <p>THE King of <hi>Poland</hi> and the Duke of <hi>Lorrain</hi> having made a Meen of Attacking <hi>Newheuſel,</hi> in which the Turks have a very ſtrong Gariſon, they on the ſuddain repaſſed the <hi>Danube</hi> near <hi>Comorra,</hi> reſolving to poſſeſs themſelves of <hi>Barkan, Peſt, Agria,</hi> and other important Poſts, thereby to ſecure their Winter-Quarters in the <hi>
+                  <g ref="char:V">Ʋ</g>pper Hun<g ref="char:EOLhyphen"/>gary.</hi> The King of <hi>Poland</hi> advanced with his Forces on the ſeventh of <hi>October;</hi> and being arrived near <hi>Barkan,</hi> immediately Attacked that Fort, which ſe<g ref="char:EOLhyphen"/>cures the Bridge of <hi>Gran.</hi> The Turks defended it with the greater Cou<g ref="char:EOLhyphen"/>rage, for that they were ſupported by a very conſiderable Body of choſen Men; a great Detachement whereof, whiles the Poles were engaged in the Attack of the Fort, paſſed undiſcovered, and fell upon the Chriſtians in their Rear, and their Flank, and put them into great diſorder. The King performed the part of a great General, and the moſt daring Soldier, mingling himſelf with the young Prince his Son among the thickeſt of the Enemy; who with great fury puſhed on the advantage they had, and preſſed the Poles very hard, of whom 14 or 1500 were killed upon the Place; and among theſe, the Palatine of <hi>Pomerelle,</hi> and ſeveral brave Officers.</p>
+            <p>The Duke of <hi>Lorrain</hi> having underſtood the danger the King was in, advanced with the Imperial Horſe and Dragoons with all the ſpeed he was able, and came very opportunely to his Aſſiſtance; and the Turks ſeeing the Imperialiſts appear, preſently retired.</p>
+            <p>On the Eighth, the Imperial Infantry came up, and the next day the King and the Duke reſolved again to Attack <hi>Barkan.</hi> The Armies being drawn up in Batallia accordingly advanced, the Imperialiſts having the Right Wing. A Body of between 12 and 15000 Turks, all choſen Men, encamped in the Neighbourhood; They ſeeing the Chriſtians come on, advanced with a full
+<pb n="2" facs="tcp:100512:2"/>ſpeed, and moſt hideous Cries, being encouraged with the Advantage they had had on the Poles two days before. The Chriſtians kept themſelves cloſe and firm as a Wall, the Turks were not able to break in upon them, but were vigorouſly repulſed; and then, leaving the Imperialiſts, they turned towards the Poles, and made an Attack upon them: But here they were likewiſe very well received, and many of them fell, the Poles with great Bravery re<g ref="char:EOLhyphen"/>venging the loſs they ſuffered on the Seventh; and they were ſeconded by the Imperialiſts, and particularly by the Regiment of <hi>Caprara.</hi> The Turks being now hard preſſed upon, and two of their Baſſa's being ſlain, and another taken Priſoner, they fled. The Chriſtians purſued them; ſome threw themſelves into <hi>Barkan,</hi> and others got over the <hi>Danube,</hi> but the Bridge break<g ref="char:EOLhyphen"/>ing, thoſe that remained behind were moſt of them ſlain, ſome drowned, and the reſt taken priſoners, ſo that of the whole Body not above 3 or 4000 eſcaped; And at the ſame time the Regiment of <hi>Caſtelli</hi> and ſome other com<g ref="char:EOLhyphen"/>manded Troops made themſelves Maſters of the Outworks of <hi>Barkan</hi> with their Swords in their hands, and put all the Turks that were in the Counterſcarp and in the Ditch to the Sword, but gave Quarter to 500 Janiſaries which were in the place, and who yeilded on diſcretion. The plunder which the Chriſti<g ref="char:EOLhyphen"/>ans had in <hi>Barkan,</hi> and in the Camp of this Body of Turks, appointed by the Grand Viſier to Cover <hi>Gran,</hi> as well as <hi>Barkan,</hi> was very great; 20 Pieces of Cannon were taken with great quantities of Ammunition and Proviſions, and many fine Horſes, with very rich Furniture; And the Priſoners declare that the Turks, who were before in a great conſternation, will not after this freſh diſgrace be able to make any conſiderable reſiſtance in any place.</p>
+            <p>During the Action the Turks in <hi>Barkan</hi> were not wanting to employ their Cannon againſt the Chriſtians, notwithſtanding which, and the continual fire of their Musketeers, the Imperial Foot and Dragoons, being commanded by the Count <hi>de Staremberg,</hi> forced the Counterſcarp, which was very well pa<g ref="char:EOLhyphen"/>liſadoed, and ſlew a great many of the Turks, who eſcaping out of the Field, took ſhelter there. They in <hi>Gran</hi> likewiſe fired upon the Chriſtians, but did them little harm, and could not hinder their ruining entirely their bridge. The 10, the Bridge of Boats, which the Chriſtians made uſe of in their paſſing the <hi>Danube</hi> near <hi>Comorra</hi> arrived, and that day, and the follow<g ref="char:EOLhyphen"/>ing, the Imperial and Poliſh Troops paſſed the River to beſiege <hi>Gran,</hi> the principal Fortifications whereof are it's ſaid in a very ill condition, and the place badly provided with Ammunition and Cannon, the Grand Viſier having ſup<g ref="char:EOLhyphen"/>plyed himſelf from thence for the Siege of <hi>Vienna.</hi> This Victory as it is very conſiderable in it ſelf, the Turks having here the Flower of their Army, ſo will in all likelihood be greater in its conſequences, for the Courage as well as Forces of the Enemy being broken, <hi>Gran</hi> will not be able to make any great defence; and being taken, <hi>Newheuſel</hi> will be deprived of all communication with the Turkiſh Territories, and be in a manner blockt up. And ſeveral other places will probably without any great oppoſition, fall into the hands of the Chriſtians.</p>
+            <p>It is ſaid that 10000 Germans and Croats, being reinforced with the Troops of the Count <hi>de Budiani</hi> and others, which aſſembled on the Frontiers of <hi>Stiria,</hi> have attacked <hi>Caniſa,</hi> in which, they had advice, were but 800 men, and thoſe in want of Ammunition and Proviſions; but this will need a Confirmation.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Samuel Lowndes,</hi> over againſt <hi>Exeter-Exchange</hi> in the <hi>Strand.</hi> 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
